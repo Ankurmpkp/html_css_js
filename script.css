@@ -1,0 +1,18 @@
+body
+{
+	background: pink;
+}
+table
+{
+	width: 90%;
+
+}
+input:hover
+{
+	background: grey ;
+}
+
+input:focus
+{
+	background: grey ;
+}
